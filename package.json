@@ -1,0 +1,27 @@
+{
+  "name": "twatt",
+  "version": "1.0.0",
+  "description": "oauth twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinhimawan/twatt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinhimawan/twatt/issues"
+  },
+  "homepage": "https://github.com/kevinhimawan/twatt#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.9",
+    "oauth": "^0.9.15"
+  }
+}
